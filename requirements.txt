@@ -1,0 +1,12 @@
+torch>=2.4.0
+unsloth
+unsloth_zoo
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+trl
+evaluate
+rouge_score
+huggingface_hub
